@@ -1,4 +1,6 @@
-# Tropeiro 🫘
+# Tropeiro :bear:
+
+
 
 ### Ingredientes
 
